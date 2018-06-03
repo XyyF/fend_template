@@ -1,5 +1,5 @@
 {
-  "name": "slidefullpage",
+  "name": "rengar_test",
   "version": "1.0.0",
   "description": "",
   "main": "slide_full_page.js",
@@ -18,5 +18,8 @@
     "babel-preset-es2015": "^6.24.1",
     "webpack": "2.7.0",
     "webpack-dev-server": "2.4.2"
+  },
+  "dependencies": {
+    "slidefullpage": "^1.0.7"
   }
 }
